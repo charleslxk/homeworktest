@@ -36,10 +36,7 @@ public class MyArrayList {
         	 
         	}
 		elementData[size++]=obj;
-		
-        
         }
-        
         private int size() {
 			return size;
 			// TODO Auto-generated method stub
